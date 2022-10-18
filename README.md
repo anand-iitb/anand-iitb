@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @anand-iitb
-- 👀 I’m interested in Competetive Programming
-- 🌱 I’m currently in third year at IIT Bombay in CSE Department
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anand Kumar.
+- 🌱 I’m currently in my third year at IIT Bombay in CSE Department.
+- 👀 I’m interested in Competetive Programming, DSA, and Advanced Algorithms.
+- 📫 How to reach me--
+      anandpes.ak4@gmail.com
 
 <!---
 anand-iitb/anand-iitb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
