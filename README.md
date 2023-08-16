@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anand Kumar.
+- 👋 Hi there, I’m Anand Kumar
 - 🌱 I’m a fourth year undergraduate student in CSE department at IIT Bombay.
 - 👀 My hobbies include Competetive Programming, learning new algorithms and solving logical puzzles
 - 📫 How to reach me--
