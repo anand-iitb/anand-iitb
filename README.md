@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anand Kumar.
-- 🌱 I’m currently in my third year at IIT Bombay in CSE Department.
-- 👀 I’m interested in Competetive Programming, DSA, and Advanced Algorithms.
+- 🌱 I’m a fourth year undergraduate student in CSE department at IIT Bombay.
+- 👀 My hobbies include Competetive Programming, learning new algorithms and solving logical puzzles
 - 📫 How to reach me--
       anandpes.ak4@gmail.com
 
